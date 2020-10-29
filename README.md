@@ -1,6 +1,7 @@
 # [ali-oss](https://github.com/ali-sdk/ali-oss) for miniprogram
 
-api基本和`ali-oss`保持一致, 主要做了以下改动：
+api基本和`ali-oss`(`v6.11.2`)保持一致, 主要做了以下改动：
+
 - 所有`Buffer`类型的参数替换为`ArrayBuffer`
 
 ## 使用
