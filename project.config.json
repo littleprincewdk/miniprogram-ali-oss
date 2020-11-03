@@ -48,11 +48,6 @@
   "debugOptions": {
     "hidedInDevtools": []
   },
-  "scripts": {
-    "beforeCompile": "npm run build",
-    "beforePreview": "npm run build",
-    "beforeUpload": "npm run build"
-  },
   "isGameTourist": false,
   "simulatorType": "wechat",
   "simulatorPluginLibVersion": {},

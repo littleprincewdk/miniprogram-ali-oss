@@ -3,7 +3,7 @@
     "allowJs": true,
     "target": "ES2017",
     "module": "ES2020",
-    "declaration": true,
+    "declaration": false,
     "strict": true,
     "esModuleInterop": true,
     "noUnusedLocals": true,
@@ -17,10 +17,9 @@
   },
   "include": [
     "lib",
-    "shims",
-    "example/miniprogram_npm/miniprogram-ali-oss"
+    "shims"
   ],
   "exclude": [
-    "node_modules",
+    "node_modules"
   ]
 }

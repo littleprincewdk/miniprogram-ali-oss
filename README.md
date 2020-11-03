@@ -20,7 +20,3 @@ $ yarn add miniprogram-ali-oss
   - [.abortMultipartUpload](https://github.com/ali-sdk/ali-oss#abortmultipartuploadname-uploadid-options)
   
 如需其他请联系。
-
-## 运行示例
-
-微信开发者工具（`1.03.2006302`以上）导入项目即可查看示例，首次运行需要执行下【工具】->【构建npm】
